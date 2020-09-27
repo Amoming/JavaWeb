@@ -1,0 +1,3 @@
+devide异常了
+异常的名称ArithmeticException
+异常的原因/ by zero总共出现1异常
